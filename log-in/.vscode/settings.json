@@ -1,0 +1,7 @@
+{
+    "liveshare.alwaysFollowHost": true,
+    "liveshare.connectionMode": "direct",
+    "liveshare.diagnosticLogging": true,
+    "liveshare.diagnosticMode": true,
+    "liveshare.launcherClient": "web"
+}
