@@ -48,7 +48,7 @@
         <input type = "password" id = "pass2" placeholder = "Confirm Password" required>
 
         <div class="checkbox-label">
-            <input type="checkbox" id="terms" value="I agree to the terms and conditions.">
+            <input type="checkbox" id="terms" value="I agree to the terms and conditions." required>
             <label for="terms">I agree to the terms and conditions.</label>
         </div>
         <input type = "submit" value = "Register">
