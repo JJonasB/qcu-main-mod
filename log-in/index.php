@@ -104,7 +104,7 @@
             <h2>Login</h2>
             <div class="input-group">
                 <label for="username">Username</label>
-                <input type="text" id="username" name="username" required>
+                <input type="text" id="username" name="username" required placeholder="Enter Username/Email">
             </div>
             <div class="input-group">
                 <label for="password">Password</label>
